@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Part1
+comment1.params=dna
+comment1.target=java.lang.String\ FindGeneVrsn1(java.lang.String)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=dna
+comment2.target=java.lang.String\ findGeneVrsn2(java.lang.String)
+comment3.params=dna
+comment3.target=java.lang.String\ findGeneVrsn3(java.lang.String)
+comment4.params=dna
+comment4.target=java.lang.String\ findGeneVrsn4(java.lang.String)
+comment5.params=dna
+comment5.target=void\ testFindGeneVrsn1(java.lang.String)
+comment6.params=dna
+comment6.target=void\ testFindGeneVrsn2(java.lang.String)
+comment7.params=dna
+comment7.target=void\ testFindGeneVrsn3(java.lang.String)
+comment8.params=dna
+comment8.target=void\ testFindGeneVrsn4(java.lang.String)
+comment9.params=
+comment9.target=void\ urlFile()
+numComments=11
